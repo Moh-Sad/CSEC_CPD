@@ -1,6 +1,7 @@
 """     Author: Mohammed Sadik
         Language: Python 3
-        Difficulty: Easy        """
+        Difficulty: Easy
+        Platform: Codeforces    """
 
 n, h = map(int, input().split())
 items = list(map(int, input().split()))
